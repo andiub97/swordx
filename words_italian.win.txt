@@ -2344,7 +2344,7 @@ affilino
 affilio
 affilo
 affinche
-affinchè
+affinchï¿½
 affine
 affini
 affinita
@@ -2629,7 +2629,7 @@ aggiudico
 aggiunge
 aggiungendo
 aggiungere
-aggiungerò
+aggiungerï¿½
 aggiunse
 aggiunta
 aggiunte
@@ -3468,7 +3468,7 @@ altipiano
 alto
 altra
 altre
-altresì
+altresï¿½
 altrettante
 altri
 altrimenti
@@ -4049,7 +4049,7 @@ anditi
 andito
 ando
 andra
-andrà
+andrï¿½
 andrai
 andranno
 andrebbe
@@ -4509,7 +4509,7 @@ antri
 antro
 anzi
 anzianita
-anzichè
+anzichï¿½
 apatia
 apatie
 ape
@@ -4606,7 +4606,7 @@ apparenze
 appari
 apparir
 apparira
-apparirà
+apparirï¿½
 appariranno
 apparire
 appariva
@@ -6510,7 +6510,7 @@ avidi
 avidita
 avido
 avra
-avrà
+avrï¿½
 avrai
 avrebbe
 avrebbero
@@ -6583,7 +6583,7 @@ avveriate
 avverino
 avvero
 avverra
-avverrà
+avverrï¿½
 avversa
 avversari
 avversaria
@@ -8925,7 +8925,7 @@ cancellavo
 cancellazione
 cancellazioni
 cancellera
-cancellerà
+cancellerï¿½
 cancellero
 cancelli
 cancellino
@@ -9163,7 +9163,7 @@ caricavate
 caricavi
 caricavo
 carichera
-caricherà
+caricherï¿½
 caricherai
 caricherei
 carichero
@@ -10006,7 +10006,7 @@ ciocca
 ciocche
 cioche
 cioe
-cioè
+cioï¿½
 ciondoli
 ciondolo
 ciotola
@@ -10711,7 +10711,7 @@ compariate
 comparii
 comparimmo
 comparira
-comparirà
+comparirï¿½
 comparirai
 compariranno
 comparire
@@ -11044,7 +11044,7 @@ comunista
 comuniste
 comunisti
 comunita
-comunità
+comunitï¿½
 comunque
 con
 concatenare
@@ -12606,7 +12606,7 @@ coscienti
 coscienza
 cose
 cosi
-così
+cosï¿½
 cosiddetto
 cosituite
 cosmetica
@@ -13619,7 +13619,7 @@ danzo
 dapprima
 dar
 dara
-darà
+darï¿½
 darai
 daranno
 darci
@@ -15125,7 +15125,7 @@ devozione
 dfgdfgdfgdfgdfgd
 dfgdgdfgdfgdfg
 di
-dì
+dï¿½
 dia
 diabete
 diabolica
@@ -15314,7 +15314,7 @@ differiscono
 difficile
 difficili
 difficolta
-difficoltà
+difficoltï¿½
 diffida
 diffidai
 diffidammo
@@ -17368,7 +17368,7 @@ dovevo
 dovizia
 dovizie
 dovra
-dovrà
+dovrï¿½
 dovrai
 dovranno
 dovrebbe
@@ -17530,7 +17530,7 @@ duriate
 durino
 duro
 e
-è
+ï¿½
 ebano
 ebete
 ebeti
@@ -19442,7 +19442,7 @@ fachiro
 facile
 facili
 facilita
-facilità
+facilitï¿½
 facilitano
 facilitare
 facilmente
@@ -19508,7 +19508,7 @@ fallimenti
 fallimento
 fallito
 fallo
-falò
+falï¿½
 falsa
 false
 falsi
@@ -19560,7 +19560,7 @@ fantini
 fantino
 far
 fara
-farà
+farï¿½
 farai
 faranno
 farcela
@@ -20045,7 +20045,7 @@ finanziero
 finanzino
 finanzio
 finche
-finchè
+finchï¿½
 fine
 finendo
 finestra
@@ -21628,7 +21628,7 @@ ghirlanda
 ghirlande
 ghisa
 gia
-già
+giï¿½
 giacca
 giacche
 giacciono
@@ -28567,7 +28567,7 @@ mentiva
 mentivo
 mento
 mentre
-menù
+menï¿½
 menzionato
 menzognera
 menzognere
@@ -29156,7 +29156,7 @@ mobilia
 mobilie
 moda
 modalita
-modalità
+modalitï¿½
 mode
 modella
 modellai
@@ -32703,7 +32703,7 @@ pedaggi
 pedaggio
 pedale
 pedali
-pedalò
+pedalï¿½
 pedana
 pedane
 pedante
@@ -33083,7 +33083,7 @@ percezione
 percezioni
 perche
 percio
-perciò
+perciï¿½
 percome
 percorre
 percorrere
@@ -34453,7 +34453,7 @@ possiamo
 possibile
 possibili
 possibilita
-possibilità
+possibilitï¿½
 possibilmente
 possiede
 posso
@@ -36580,7 +36580,7 @@ punzecchio
 punzone
 punzoni
 puo
-può
+puï¿½
 puoi
 pupilla
 pupille
@@ -41344,7 +41344,7 @@ ritrosi
 ritroso
 ritrova
 ritrovano
-ritroverà
+ritroverï¿½
 ritrovi
 ritrovo
 ritta
@@ -42603,7 +42603,7 @@ sapremo
 sapreste
 sapresti
 saputo
-sarà
+sarï¿½
 sarai
 saranno
 sarcastica
@@ -44909,7 +44909,7 @@ scrivendole
 scrivente
 scriventi
 scriver
-scriverà
+scriverï¿½
 scriverci
 scrivere
 scrivergli
@@ -45666,7 +45666,7 @@ semplici
 semplicissima
 semplicit
 semplicita
-semplicità
+semplicitï¿½
 semplific
 semplifica
 semplificare
@@ -55804,7 +55804,7 @@ tostino
 tosto
 totale
 totali
-totalità
+totalitï¿½
 totalitari
 totalizz
 totalizza
@@ -59203,7 +59203,7 @@ verniciavo
 vernicino
 vero
 verra
-verrà
+verrï¿½
 verranno
 verrano
 verrebbe
